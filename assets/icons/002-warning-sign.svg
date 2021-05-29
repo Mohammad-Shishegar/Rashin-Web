@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="_002-warning-sign" data-name="002-warning-sign" transform="translate(0 -29.83)">
+    <path id="Path_454" data-name="Path 454" d="M21.632,46.646l-7.888-14.96A3.04,3.04,0,0,0,11,29.83a3.04,3.04,0,0,0-2.744,1.856L.369,46.646c-1.1,2.35.4,5.184,2.752,5.184H18.88C21.229,51.83,22.735,49,21.632,46.646ZM18.88,50.365H3.121A2.068,2.068,0,0,1,1.5,47.349L9.392,32.391a1.728,1.728,0,0,1,3.218,0L20.5,47.349a2.068,2.068,0,0,1-1.616,3.016Z" transform="translate(0)" fill="#949494"/>
+    <path id="Path_455" data-name="Path 455" d="M240.021,150.214h1.272v8.266h-1.272Z" transform="translate(-229.656 -113.91)" fill="#949494"/>
+    <path id="Path_456" data-name="Path 456" d="M240.021,375.214h1.272v1.272h-1.272Z" transform="translate(-229.656 -328.354)" fill="#949494"/>
+  </g>
+</svg>
